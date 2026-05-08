@@ -1,3 +1,13 @@
+Nombre	del	estudiante: Eddy Ismael Morales Chiza
+Nombre	del	proyecto: APP_CAMARA-MASTER
+
+Instrucciones	de	instalación:
+añadir los archivos de la carpeta enviroments para las credenciales
+Instrucciones	de	ejecución:
+primero ejecutar npm i
+despues ejecutar ionic serve
+
+
 splash:
 <img width="1080" height="2460" alt="image" src="https://github.com/user-attachments/assets/97e9b024-263e-495a-8306-1e620bac0c5c" />
 
