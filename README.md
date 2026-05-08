@@ -1,13 +1,19 @@
 splash:
 <img width="1080" height="2460" alt="image" src="https://github.com/user-attachments/assets/97e9b024-263e-495a-8306-1e620bac0c5c" />
 
+login:
+<img width="950" height="833" alt="image" src="https://github.com/user-attachments/assets/b30a8323-9b67-4476-bd7a-163ba5417bb8" />
+
+<img width="776" height="661" alt="image" src="https://github.com/user-attachments/assets/c2ad64e6-2bd2-44f7-9876-3b95fb82d8a7" />
 
 
 
 tab1:
 boton de alerta:
-<img width="562" height="812" alt="image" src="https://github.com/user-attachments/assets/ea21422a-3cb4-4d46-9186-518e1bf61a55" />
-<img width="438" height="318" alt="image" src="https://github.com/user-attachments/assets/2ebf3f5e-884b-46db-bb4e-6bd98c47b782" />
+<img width="1894" height="902" alt="image" src="https://github.com/user-attachments/assets/a5ab65ac-68f5-44f5-80d6-742237f71458" />
+<img width="651" height="869" alt="image" src="https://github.com/user-attachments/assets/beb06b62-2636-4a52-b84a-24868af90756" />
+
+
 
 tab2: 
 camara:
